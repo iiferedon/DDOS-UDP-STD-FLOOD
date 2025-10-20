@@ -18,3 +18,5 @@ To compile the `Rail.c` file, use the GNU Compiler Collection (GCC):
 
 ```bash
 gcc Rail.c -o Rail
+./Rail STD <IPADDRESS> <PORT> <SECONDS>
+./Rail UDP <IPADDRESS> <PORT> <SECONDS>
