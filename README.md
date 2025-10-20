@@ -1,4 +1,4 @@
-# 🚂 Hex Railing DDOS
+# Hex Railing DDOS
 
 ---
 
