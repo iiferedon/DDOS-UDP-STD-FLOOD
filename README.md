@@ -12,7 +12,7 @@ This is a C-based network stress testing and denial-of-service (DoS) tool design
 
 ## 🚀 How to Use
 
-### 1. Build from Source
+### 1. Build from Source in Linux Distros
 
 To compile the `Rail.c` file, use the GNU Compiler Collection (GCC):
 
