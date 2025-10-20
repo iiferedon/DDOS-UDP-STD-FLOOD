@@ -14,7 +14,7 @@ This is a C-based network stress testing and denial-of-service (DoS) tool design
 
 ### 1. Build from Source
 
-To compile the `Rail.c` file, use the GNU Compiler Collection (GCC) and link the `pthread` library for multi-threading:
+To compile the `Rail.c` file, use the GNU Compiler Collection (GCC):
 
 ```bash
-gcc Rail.c -o Rail -pthread
+gcc Rail.c -o Rail
